@@ -1,0 +1,6 @@
+easylearn-backend/node_modules/
+easylearn-backend/.env
+easylearn-backend/uploads/
+
+easylearn-frontend/node_modules/
+easylearn-frontend/dist/
